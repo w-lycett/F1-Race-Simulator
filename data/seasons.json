@@ -1,0 +1,15 @@
+{
+    "seasons": [
+        {
+            "year": 2026,
+            "calendar": [
+                "bahrain",
+                "monaco",
+                "monza",
+                "spa",
+                "nordschleife"
+            ],
+            "points_system": [25, 18, 15, 12, 10, 8, 6, 4, 2, 1]
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "drivers": [
+        {
+            "id": "mv3",
+            "name": "Max Verstappen",
+            "nationality": "Netherlands",
+            "team": "rb",
+            "skill": 96,
+            "aggression": 85,
+            "consistency": 90
+        },
+        {
+            "id": "ih6",
+            "name": "Isack Hadjar",
+            "nationality": "France",
+            "team": "rb",
+            "skill": 87,
+            "aggression": 78,
+            "consistency": 85
+        },
+        {
+            "id": "ln1",
+            "name": "Lando Norris",
+            "nationality": "United Kingdom",
+            "team": "mcl",
+            "skill": 94,
+            "aggression": 80,
+            "consistency": 89
+        },
+        {
+            "id": "op81",
+            "name": "Oscar Piastri",
+            "nationality": "Australia",
+            "team": "mcl",
+            "skill": 93,
+            "aggression": 79,
+            "consistency": 85
+        },
+        {
+            "id": "pg10",
+            "name": "Pierre Gasly",
+            "nationality": "France",
+            "team": "a5",
+            "skill": 90,
+            "aggression": 75,
+            "consistency": 90
+        },
+        {
+            "id": "fc41",
+            "name": "Franco Colapinto",
+            "nationality": "Argentina",
+            "team": "a5",
+            "skill": 84,
+            "aggression": 76,
+            "consistency": 81
+        },
+        {
+            "id": "fa14",
+            "name": "Fernando Alonso",
+            "nationality": "Spain",
+            "team": "amr",
+            "skill": 89,
+            "aggression": 78,
+            "consistency": 84
+        },
+        {
+            "id": "ls18",
+            "name": "Lance Stroll",
+            "nationality": "Canada",
+            "team": "amr",
+            "skill": 81,
+            "aggression": 75,
+            "consistency": 82
+        },
+        {
+            "id": "aa23",
+            "name": "Alexander Albon",
+            "nationality": "Thailand",
+            "team": "fw",
+            "skill": 88,
+            "aggression": 76,
+            "consistency": 87
+        },
+        {
+            "id": "cs55",
+            "name": "Carlos Sainz",
+            "nationality": "Spain",
+            "team": "fw",
+            "skill": 91,
+            "aggression": 77,
+            "consistency": 84
+        },
+        {
+            "id": "gb5",
+            "name": "Gabriel Bortoleto",
+            "nationality": "Brazil",
+            "team": "r",
+            "skill": 86,
+            "aggression": 76,
+            "consistency": 83
+        },
+        {
+            "id": "nh27",
+            "name": "Nico Hulkenburg",
+            "nationality": "Germany",
+            "team": "r",
+            "skill": 87,
+            "aggression": 78,
+            "consistency": 81
+        },
+        {
+            "id": "sp11",
+            "name": "Sergio Perez",
+            "nationality": "Mexico",
+            "team": "mac",
+            "skill": 88,
+            "aggression": 75,
+            "consistency": 87
+        },
+        {
+            "id": "vb77",
+            "name": "Valtteri Bottas",
+            "nationality": "Finland",
+            "team": "mac",
+            "skill": 87,
+            "aggression": 74,
+            "consistency": 88
+        },
+        {
+            "id": "cl16",
+            "name": "Charles Leclerc",
+            "nationality": "Monaco",
+            "team": "sf",
+            "skill": 93,
+            "aggression": 83,
+            "consistency": 89
+        },
+        {
+            "id": "lh44",
+            "name": "Lewis Hamilton",
+            "nationality": "United Kingdom",
+            "team": "sf",
+            "skill": 94,
+            "aggression": 80,
+            "consistency": 87
+        },
+        {
+            "id": "eo31",
+            "name": "Esteban Ocon",
+            "nationality": "France",
+            "team": "vf",
+            "skill": 87,
+            "aggression": 75,
+            "consistency": 87
+        },
+        {
+            "id": "ob87",
+            "name": "Oliver Bearman",
+            "nationality": "United Kingdom",
+            "team": "vf",
+            "skill": 89,
+            "aggression": 78,
+            "consistency": 83
+        },
+        {
+            "id": "ka12",
+            "name": "Kimi Antonelli",
+            "nationality": "Italy",
+            "team": "w",
+            "skill": 93,
+            "aggression": 83,
+            "consistency": 91
+        },
+        {
+            "id": "gr63",
+            "name": "George Russell",
+            "nationality": "United Kingdom",
+            "team": "w",
+            "skill": 94,
+            "aggression": 83,
+            "consistency": 90
+        },
+        {
+            "id": "ll30",
+            "name": "Liam Lawson",
+            "nationality": "New Zealand",
+            "team": "vcarb",
+            "skill": 88,
+            "aggression": 79,
+            "consistency": 81
+        },
+        {
+            "id": "al41",
+            "name": "Arvid Lindblad",
+            "nationality": "United Kingdom",
+            "team": "vcarb",
+            "skill": 85,
+            "aggression": 76,
+            "consistency": 81
+        }
+    ]
+}

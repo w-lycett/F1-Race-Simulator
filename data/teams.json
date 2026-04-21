@@ -1,0 +1,70 @@
+{
+    "teams": [
+        {
+            "id": "rb",
+            "name": "Oracle Red Bull Racing",
+            "nationality": "Austria",
+            "car": 89
+        },
+        {
+            "id": "mcl",
+            "name": "McLaren Mastercard F1 Team",
+            "nationality": "United Kingdom",
+            "car": 93
+        },
+        {
+            "id": "a5",
+            "name": "BWT Alpine F1 Team",
+            "nationality": "France",
+            "car": 87
+        },
+        {
+            "id": "amr",
+            "name": "Aston Martin Aramco F1 Team",
+            "nationality": "United Kingdom",
+            "car": 79
+        },
+        {
+            "id": "fw",
+            "name": "Atlassian Williams F1 Team",
+            "nationality": "United Kingdom",
+            "car": 84
+        },
+        {
+            "id": "r",
+            "name": "Audi Revolut F1 Team",
+            "nationality": "Germany",
+            "car": 85
+        },
+        {
+            "id": "mac",
+            "name": "Cadillac Formula 1 Team",
+            "nationality": "United States",
+            "car": 81
+        },
+        {
+            "id": "sf",
+            "name": "Scuderia Ferrari HP",
+            "nationality": "Italy",
+            "car": 96
+        },
+        {
+            "id": "vf",
+            "name": "TGR Haas F1 Team",
+            "nationality": "United States",
+            "car": 90
+        },
+        {
+            "id": "w",
+            "name": "Mercedes-AMG Petronas F1 Team",
+            "nationality": "Germany",
+            "car": 98
+        },
+        {
+            "id": "vcarb",
+            "name": "Visa Cash App Racing Bulls F1 Team",
+            "nationality": "Italy",
+            "car": 88
+        }
+    ]
+}

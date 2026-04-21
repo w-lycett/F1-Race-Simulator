@@ -1,0 +1,49 @@
+{
+    "circuits": [
+        {
+            "id": "bahrain",
+            "name": "Bahrain International Circuit",
+            "race": "Bahrain",
+            "country": "Bahrain",
+            "laps": 57,
+            "base_lap_time": 96.0,
+            "length": 3.363
+        },
+        {
+            "id": "monaco",
+            "name": "Circuit de Monaco",
+            "race": "Monaco",
+            "country": "Monaco",
+            "laps": 78,
+            "base_lap_time": 75.6,
+            "length": 2.075
+        },
+        {
+            "id": "monza",
+            "name": "Autodromo Nazionale di Monza",
+            "race": "Monza",
+            "country": "Italy",
+            "laps": 53,
+            "base_lap_time": 85.1,
+            "length": 3.6
+        },
+        {
+            "id": "spa",
+            "name": "Circuit de Spa-Francorchamps",
+            "race": "Spa-Francorchamps",
+            "country": "Belgium",
+            "laps": 44,
+            "base_lap_time": 109.9,
+            "length": 4.352
+        },
+        {
+            "id": "nordschleife",
+            "name": "Nurburgring Nordschleife",
+            "race": "Nurburg",
+            "country": "Germany",
+            "laps": 14,
+            "base_lap_time": 447.72,
+            "length": 14.189
+        }
+    ]
+}
