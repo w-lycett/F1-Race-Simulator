@@ -27,11 +27,11 @@ I started creating a race simulator after finding no similar alternative that I 
    ```
 
 5. Activate the virtual environment:
-   Windows:
+      Windows:
      ```
      venv\Scripts\activate
      ```
-   macOS / Linux:
+      macOS / Linux:
      ```
      source venv/bin/activate
      ```
@@ -44,7 +44,7 @@ I started creating a race simulator after finding no similar alternative that I 
 
 ## Customisation
 To customise the drivers, teams, etc., edit the parameters in the JSON files. Rest assured a more graceful solution will be implemented alongside the GUI. Use the following formats:
-Drivers:
+   Drivers:
   ```
   "id": <string> [driver's unique identifier]
   "name": <string> [driver's display name]
@@ -54,14 +54,14 @@ Drivers:
   "aggression": <integer> [aggression score (0-100)]
   "consistency": <integer> [consistency score (0-100)]
   ```
-Teams:
+   Teams:
   ```
   "id": <string> [team's unique identifier (usually the chassis prefix)]
   "name": <string> [team's display name]
   "nationality": <string> [team's country]
   "car": <integer> [car power / reliability score (0-100)]
   ```
-Circuits:
+   Circuits:
   ```
   "id": <string> [circuit's unique identifier]
   "circuit": <string> [circuit's full display name]
@@ -71,13 +71,13 @@ Circuits:
   "base_lap_time": <float> [average lap time around the circuit, in seconds]
   "length": <float> [length of a lap around the circuit, in miles]
   ```
-Seasons:
+   Seasons:
   ```
   "year": <integer> [year of the season]
   "calendar": <string array> [circuits in the season, using unique identifiers]
   "points_system": <integer array> [points awarded, in decreasing order of positions]
   ```
-Currently, program only simulates the first season in the JSON file. Functionality to choose seasons will be implemented alongside the GUI.
+Currently, the program only simulates the first season in the JSON file. Functionality to choose seasons will be implemented alongside the GUI.
 
 ## Contributing
 Pull requests are welcome. For major changes, open an issue first.
