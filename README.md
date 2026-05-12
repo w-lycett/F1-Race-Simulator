@@ -81,6 +81,3 @@ Currently, the program only simulates the first season in the JSON file. Functio
 
 ## Contributing
 Pull requests are welcome. For major changes, open an issue first.
-
-## License
-MIT License
